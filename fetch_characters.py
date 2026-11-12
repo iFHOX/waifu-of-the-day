@@ -2,6 +2,7 @@ import json
 import time
 import requests
 import re
+import html
 
 query = '''
 query ($page: Int, $perPage: Int) {
@@ -38,11 +39,14 @@ def clean_description(text):
     if not text:
         return None
     spoilerpattern = r'~!.*?!~'
+    htmlpattern = r'</?(?:a|i|b|br)\b[^>]*>'
     cleanspoiler = re.sub(spoilerpattern, '', text, flags=re.DOTALL)
-    paragraphs = cleanspoiler.split('\n\n')
+    cleanhref = re.sub(htmlpattern, '', cleanspoiler, flags=re.IGNORECASE)
+    paragraphs = cleanhref.split('\n\n')
     pattern = r'\[(.*?)\]\((.*?)\)'
     for p in paragraphs:
         p = p.strip()
+        p = html.unescape(p)
         if p.startswith(('__', '**')):
             continue
         pretexted = re.sub(pattern, r'\1', p)
