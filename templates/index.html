@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Waifu of the day</title>
+</head>
+<body>
+<img src="{{ c.image }}" alt="{{ c.name }}">
+<h1>{{ c.name }}</h1>
+<p>Series: {{ c.series }}</p>
+<p>{{ c.description | truncate(500) }}</p>
+<p><a href="{{ c.siteUrl }}" target="_blank" rel="noopener noreferrer">More about {{ c.name }} here!</a></p>
+<footer>
+    <p>Character data and images from <a href="https://anilist.co/" target="_blank" rel="noopener noreferrer">AniList</a></p>
+</footer>
+</body>
+</html>

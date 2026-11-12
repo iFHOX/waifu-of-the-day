@@ -14,6 +14,7 @@ query ($page: Int, $perPage: Int) {
             }
             characters (sort: FAVOURITES_DESC) {
                 id
+                siteUrl
                 image {
                     large
                 }
@@ -90,6 +91,7 @@ while len(results) < 400:
                     'series': c['media']['nodes'][0]['title']['romaji'],
                     'image': c['image']['large'],
                     'description': desc,
+                    'siteUrl': c['siteUrl'],
                 })
     if not data['pageInfo']['hasNextPage']:
         break
