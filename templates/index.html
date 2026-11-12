@@ -2,16 +2,24 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Waifu of the day</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-<img src="{{ c.image }}" alt="{{ c.name }}">
-<h1>{{ c.name }}</h1>
-<p>Series: {{ c.series }}</p>
-<p>{{ c.description | truncate(500) }}</p>
-<p><a href="{{ c.siteUrl }}" target="_blank" rel="noopener noreferrer">More about {{ c.name }} here!</a></p>
-<footer>
-    <p>Character data and images from <a href="https://anilist.co/" target="_blank" rel="noopener noreferrer">AniList</a></p>
-</footer>
+    <article class="card">
+        <figure class="picture">
+            <img src="{{ c.image }}" alt="{{ c.name }}">
+        </figure>
+    <div class="text">
+        <h1>{{ c.name }}</h1>
+        <p class="anime">Series: {{ c.series }}</p>
+        <p class="desc">{{ c.description | truncate(500) }}</p>
+        <p class="more"><a href="{{ c.siteUrl }}" target="_blank" rel="noopener noreferrer">More about {{ c.name }} here!</a></p>
+    </div>
+    </article>
+    <footer>
+        <p>Character data and images from <a href="https://anilist.co/" target="_blank" rel="noopener noreferrer">AniList</a></p>
+    </footer>
 </body>
 </html>

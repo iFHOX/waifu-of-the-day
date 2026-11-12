@@ -1,0 +1,29 @@
+*, *::before, *::after { box-sizing: border-box; }
+
+body { background: #FFC5D3; }
+
+.card {
+    background-color: white;
+    max-width: 20%;
+    display: block;
+    margin-inline: auto;
+    border-radius: 1%;
+    padding: 1%;
+    align-items: center;
+    justify-content: center;
+}
+
+.picture {
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
