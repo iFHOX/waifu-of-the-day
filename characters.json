@@ -159,7 +159,7 @@
     "name": "Anya Forger",
     "series": "SPY×FAMILY",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138100-4Li0tWRCa5bQ.png",
-    "description": "Anya Forger is the deuteragonist of the SPY x FAMILY series. She is a young girl who <a href=\"https://anilist.co/character/138101/Loid-Forger\">Twilight</a> finds at an orphanage. Believing her to be a smart child, he decides to adopt her for his mission. What he doesn't know is that Anya is an esper who escaped from the Lab that gave her the power to read minds. Starving for excitement in her life after spending most of it so far in a lab, Anya actively sought to be the one adopted by Loid and then make sure <a href=\"https://anilist.co/character/138101/Loid-Forger\">Loid</a> and <a href=\"https://anilist.co/character/138102/Yor-Forger\">Yor</a> got together, so she could have a spy and assassin for parents. Anya is the only Forger aware of just about everyone's Secret Identities, but keeps it to herself out of fear that if her psychic powers are exposed she'll be put in a lab again."
+    "description": "Anya Forger is the deuteragonist of the SPY x FAMILY series. She is a young girl who Twilight finds at an orphanage. Believing her to be a smart child, he decides to adopt her for his mission. What he doesn't know is that Anya is an esper who escaped from the Lab that gave her the power to read minds. Starving for excitement in her life after spending most of it so far in a lab, Anya actively sought to be the one adopted by Loid and then make sure Loid and Yor got together, so she could have a spy and assassin for parents. Anya is the only Forger aware of just about everyone's Secret Identities, but keeps it to herself out of fear that if her psychic powers are exposed she'll be put in a lab again."
   },
   {
     "name": "Maki Zenin",
@@ -366,16 +366,16 @@
     "description": "Aqua is a goddess of water. She guides humans who die young to the afterlife."
   },
   {
-    "name": "Ryuuko Matoi",
-    "series": "Kill la Kill",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png",
-    "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled by power and authority. She wields a huge single-bladed scissor, and demands to know the owner of the other half. As she remembers, the wielder of the lost half of the scissor blade is the same person who killed her father."
-  },
-  {
     "name": "Revy",
     "series": "BLACK LAGOON",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b458-tlKqPcuR287U.png",
     "description": "Revy, sometimes referred by her full name Rebecca Lee, is the female protagonist of the series. She does most of the fighting for the Lagoon Company. Very little is revealed about her past, although portions can be pieced together through the series. Revy is a Chinese-American born and raised in Chinatown, Manhattan, near Mott Street, spending most of her youth as a thief and murderer. Flashbacks throughout the series reveal that Revy may have honed her skills with firearms by shooting at cans, and that her first murder may have involved shooting her father while using a pillow. It is unknown whether the pillow was used to suppress the noise or to help avoid looking at her first victim. She shot him as a result of being fed up with the abuse."
+  },
+  {
+    "name": "Ryuuko Matoi",
+    "series": "Kill la Kill",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png",
+    "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled by power and authority. She wields a huge single-bladed scissor, and demands to know the owner of the other half. As she remembers, the wielder of the lost half of the scissor blade is the same person who killed her father."
   },
   {
     "name": "Lain Iwakura",
@@ -462,16 +462,16 @@
     "description": "An S-class mage from the Fairy Tail Guild who uses requip magic, which allows her to summon weapons and equip armor stored in another dimension. She is the strongest active female member."
   },
   {
-    "name": "Akame",
-    "series": "Akame ga Kill!",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png",
-    "description": "Akame is one of the members of the Assassin's group, Night Raid. She is the first member to attack Tatsumi, and comes very close to killing him. She initially appears very serious and cold-hearted, but she is actually caring and worries about the safety of her comrades. She has a younger sister named Kurome, who is a member of the Jaegers, and loyal to the Empire. Her Teigu is the One-Cut Killer: Murasame, a katana known for being coated in an immensely deadly poison that could kill those cut by it within seconds, as the poison itself has no antidote."
-  },
-  {
     "name": "Holo",
     "series": "Ookami to Koushinryou",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7373-1BH0gELuZmHD.jpg",
     "description": "Holo is a wolf harvest deity originally from a land in the north known as Yoitsu. She made a promise with men from a town called Pasloe where she would ensure the town would have good wheat harvests year after year. However, as time went on, the townspeople slowly started to forsake Holo and did not rely on her as they once did. As such, Holo escapes from town in Lawrence's wagon and started traveling with him to see how much the world has changed since she has been in Pasloe. Holo has chosen the form of a girl younger than Lawrence, though she still retains her large wolf tail and ears. Her true form is that of a very large wolf which many people revered and feared."
+  },
+  {
+    "name": "Akame",
+    "series": "Akame ga Kill!",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png",
+    "description": "Akame is one of the members of the Assassin's group, Night Raid. She is the first member to attack Tatsumi, and comes very close to killing him. She initially appears very serious and cold-hearted, but she is actually caring and worries about the safety of her comrades. She has a younger sister named Kurome, who is a member of the Jaegers, and loyal to the Empire. Her Teigu is the One-Cut Killer: Murasame, a katana known for being coated in an immensely deadly poison that could kill those cut by it within seconds, as the poison itself has no antidote."
   },
   {
     "name": "Nijika Ijichi",
@@ -663,7 +663,7 @@
     "name": "Mikoto Misaka",
     "series": "Toaru Majutsu no Index",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13701-aFJLRPGAWAae.png",
-    "description": "One of the main heroines in the <i>Toaru Majutsu no Index</i> series and the protagonist of her side story, <i>Toaru Kagaku no Railgun</i>. An Esper of Academy City, her powers are ranked Level 5, the highest rank for the most powerful Espers. She ranks as third-strongest out of the seven people who hold this rank in Academy City."
+    "description": "One of the main heroines in the Toaru Majutsu no Index series and the protagonist of her side story, Toaru Kagaku no Railgun. An Esper of Academy City, her powers are ranked Level 5, the highest rank for the most powerful Espers. She ranks as third-strongest out of the seven people who hold this rank in Academy City."
   },
   {
     "name": "Emma",
@@ -795,7 +795,7 @@
     "name": "Nana Komatsu",
     "series": "NANA",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b701-gNKbnxT6dbrf.png",
-    "description": "Komatsu came to Tokyo, looking to find her dream. Unlike Osaki, Komatsu came from a large and happy household, though her childish outlook prevented her from living on her own initially. She&#039;s the middle child of three sisters."
+    "description": "Komatsu came to Tokyo, looking to find her dream. Unlike Osaki, Komatsu came from a large and happy household, though her childish outlook prevented her from living on her own initially. She's the middle child of three sisters."
   },
   {
     "name": "Nadeko Sengoku",
@@ -906,16 +906,16 @@
     "description": "One of the two main heroines in the manga, Erina is initially the primary antagonist of Souma Yukihira, until this develops into more of a friendship. Erina is the only daughter of Azami Nakiri and an unnamed mother who is Senzaemon's biological daughter. Erina often detests whoever is considered \"common\" due to her regal pedigree and status within the Toutsuki organization. Her \"God Tongue\" can accurately describe the taste and composition of any food, and she gives harsh critiques to chefs and students alike. However, there have been rare occasions where she gives credit to chefs with skill. She had been promoted as the Elite Ten's 10th seat as a middle-schooler."
   },
   {
-    "name": "Suzune Horikita",
-    "series": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123213-jUfrGBXfW7BL.png",
-    "description": "A beautiful girl who sits next to Ayanokouji. She is the opposite of Ayanokouji when it comes to friendship; she disregards it and thinks of making friends unnecessary, thus she does not communicate much with her classmates. She is not convinced that she was placed in the D class, therefore she aims to get promoted to the A class."
-  },
-  {
     "name": "Fubuki",
     "series": "One Punch Man",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png",
     "description": "Fubuki, also known by her hero alias Blizzard of Hell, is the B-Class Rank 1 professional hero of the Hero Association. She is an esper, the younger sister of Tatsumaki, and the leader of the Blizzard Group, a B-Class hero faction. She and her sister are known as the Psychic Sisters. Fubuki is currently trying to recruit Saitama into her group. She's also a self-declared member of the Saitama Group."
+  },
+  {
+    "name": "Suzune Horikita",
+    "series": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123213-jUfrGBXfW7BL.png",
+    "description": "A beautiful girl who sits next to Ayanokouji. She is the opposite of Ayanokouji when it comes to friendship; she disregards it and thinks of making friends unnecessary, thus she does not communicate much with her classmates. She is not convinced that she was placed in the D class, therefore she aims to get promoted to the A class."
   },
   {
     "name": "Shiki Ryougi",
@@ -1074,6 +1074,12 @@
     "description": "The main female protagonist of the series. She is the daughter of Adelt Wogner Kirisaki and Hana Kirisaki who served as the fake girlfriend of Raku Ichijou for the next three years of her school life to prevent a war from starting between their families."
   },
   {
+    "name": "Kallen Stadtfeld",
+    "series": "Code Geass: Hangyaku no Lelouch",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg",
+    "description": "A Britannian-Eleven girl, who believes herself to be a Japanese person at heart."
+  },
+  {
     "name": "Milim Nava",
     "series": "Tensei Shitara Slime Datta Ken",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128036-lW0dxNwerqw4.png",
@@ -1084,12 +1090,6 @@
     "series": "Shingeki no Kyojin",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png",
     "description": "Ranked tenth in the trainee class, Krista is a very shy and kind, caring person, often being described as a \"goddess\" or \"angel\" by her peers. She is good friends with Ymir."
-  },
-  {
-    "name": "Kallen Stadtfeld",
-    "series": "Code Geass: Hangyaku no Lelouch",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg",
-    "description": "A Britannian-Eleven girl, who believes herself to be a Japanese person at heart."
   },
   {
     "name": "Ritsu Tainaka",
@@ -1212,16 +1212,16 @@
     "description": "Shiori is Jirou Yakuin's classmate and childhood friend (and crush). She was paired with Minami Tenjin in their school's couples training."
   },
   {
-    "name": "Beatrice",
-    "series": "Umineko no Naku Koro ni",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10285-oyIek2zBT5Vm.jpg",
-    "description": "The Golden Witch and Endless Witch. She is affectionately referred to as \"Beato\" (ベアト). A witch who has lived for over a thousand years, she is said to appear as a cloud of golden butterflies, and has the power to summon higher demons among the seventy-two pillars to serve her. It is said that humans can summon her to have their wishes granted in exchange for compensation, though she often acts whimsically. She is the one rumored to have given Kinzo ten tons of gold and served under him as the alchemic advisor to the Ushiromiya family."
-  },
-  {
     "name": "Chiaki Nanami",
     "series": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b73205-XVUjSJd97PbC.jpg",
     "description": "A student of Hope's Peak Academy's Class 77-B, and a participant of the Killing School Trip."
+  },
+  {
+    "name": "Beatrice",
+    "series": "Umineko no Naku Koro ni",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10285-oyIek2zBT5Vm.jpg",
+    "description": "The Golden Witch and Endless Witch. She is affectionately referred to as \"Beato\" (ベアト). A witch who has lived for over a thousand years, she is said to appear as a cloud of golden butterflies, and has the power to summon higher demons among the seventy-two pillars to serve her. It is said that humans can summon her to have their wishes granted in exchange for compensation, though she often acts whimsically. She is the one rumored to have given Kinzo ten tons of gold and served under him as the alchemic advisor to the Ushiromiya family."
   },
   {
     "name": "Konata Izumi",
@@ -1266,16 +1266,16 @@
     "description": "First sister of the Nakano Quintuplets. Despite the negligible age difference among them, she took the role of the eldest sister properly. She is also trusted enough to act as their confidant and leader. Ichika aspires to become an actress. She likes to tease Fuutarou."
   },
   {
-    "name": "Hiyori Iki",
-    "series": "Noragami",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png",
-    "description": "Hiyori Iki is a Half-Phantom who can leave her human body, being like this since she \"saved\" Yato from an incoming bus. Despite being raised to be completely lady-like in a rich household, Hiyori is a huge martial arts fan and has a fixation on a martial artist called Touno, whom she adores and copies her attacks from. She often becomes inspired and acts on his words."
-  },
-  {
     "name": "Sagiri",
     "series": "Jigokuraku",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137263-I2krXFEFOHjL.png",
     "description": "Yamada Asaemon Sagiri is the 12th rank Asaemon in the Yamada Clan. After the shogun sent criminals to Kotaku to find the Elixir of Life, she was tasked with being Gabimaru's executioner."
+  },
+  {
+    "name": "Hiyori Iki",
+    "series": "Noragami",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png",
+    "description": "Hiyori Iki is a Half-Phantom who can leave her human body, being like this since she \"saved\" Yato from an incoming bus. Despite being raised to be completely lady-like in a rich household, Hiyori is a huge martial arts fan and has a fixation on a martial artist called Touno, whom she adores and copies her attacks from. She often becomes inspired and acts on his words."
   },
   {
     "name": "Suzuha Amane",
@@ -1296,12 +1296,6 @@
     "description": "Mine is a self-proclaimed \"Genius Sniper\", as well as being a sharp-tongued and quick-witted member of the assassin's group, Night Raid. She is often quick to anger, and easily irritated with those she does not know well. Despite this cold exterior, she has shown to be warm and kind to those she has opened up to. Mine wields a powerful Teigu in the form of a rifle called the \"Roman Artillery: Pumpkin\" that fires highly concentrated piercing shots of spirit energy. Her proficiency in its use allows her to strike any target with extreme precision. When Pumpkin's user is in a dangerous situation, the power of its shots is​ magnified."
   },
   {
-    "name": "Kikuri Hiroi",
-    "series": "Bocchi the Rock!",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291639-VYrixXvuwLqx.png",
-    "description": "Bassist and vocalist of the band \"SICK HACK\"."
-  },
-  {
     "name": "Tomoko Kuroki",
     "series": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/n50057-BiD7X42rU5H1.jpg",
@@ -1312,6 +1306,12 @@
     "series": "Shingeki no Kyojin",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71479-huCD908XIdqv.png",
     "description": "Member of the Scouting Legion. She seems selfish, cynical, bossy, sly, uncooperative, exploitative, and confrontational, but she can apparently be kind, especially to Krista."
+  },
+  {
+    "name": "Kikuri Hiroi",
+    "series": "Bocchi the Rock!",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291639-VYrixXvuwLqx.png",
+    "description": "Bassist and vocalist of the band \"SICK HACK\"."
   },
   {
     "name": "Sakura Kinomoto",
@@ -1338,16 +1338,16 @@
     "description": "Rika Furude is one of the younger students in Keiichi's school, and is in the same grade level as Satoko. Naturally, she is great friends with her, as they live together in the same house. She is revered by the villagers as the heir of the local shrine, and plays the role of a miko in the annual Watanagashi Festival. She has been the head of the Furude house since her parents died, but rarely attends town meetings due to her young age. While she does not speak a lot, she likes to say nonsense words such as \"mi~\" and \"nipa~\" and often ends her sentences with \"-nano desu\", which inflames Rena's passion for cute things. Despite her young appearance, she is rather calm and reserved-usually serving as the voice of reason amongst the club members. However, she can be calculating if she wishes."
   },
   {
-    "name": "Mirai Kuriyama",
-    "series": "Kyoto Animation: Megane-hen",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81751-nUEIrhRFlkKc.png",
-    "description": "Mirai Kuriyama is the deuteragonist of the Kyoukai no Kanata series. She is a first-year student and a member of the school's Literary Club. She comes from a bloodline of Spirit World Warriors who possess blood-manipulation abilities. However, because these abilities are considered heretical among the Spirit World Warrior clans, she is shunned. After meeting Kanbara Akihito she started opening up to people and relating to them again."
-  },
-  {
     "name": "Tomoe Koga",
     "series": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg",
     "description": "A typical 1st year high-school student at Minegahara High School who can take hints, but is slightly scatterbrained. Being overly concerned about how people look at her, she hides her Hakata accent, which comes out when she panics or is relaxed."
+  },
+  {
+    "name": "Mirai Kuriyama",
+    "series": "Kyoto Animation: Megane-hen",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81751-nUEIrhRFlkKc.png",
+    "description": "Mirai Kuriyama is the deuteragonist of the Kyoukai no Kanata series. She is a first-year student and a member of the school's Literary Club. She comes from a bloodline of Spirit World Warriors who possess blood-manipulation abilities. However, because these abilities are considered heretical among the Spirit World Warrior clans, she is shunned. After meeting Kanbara Akihito she started opening up to people and relating to them again."
   },
   {
     "name": "Nikaido",
@@ -1368,16 +1368,16 @@
     "description": "Ruka Sarashina suffers from arrhythmia and seeks a lover that will help her cope with her condition. She's seen as being a very pushy and possessive kind of person. This personality of hers developed after learning of her condition and being alienated from her peers. Because of this, she became very fixated on the idea that getting a boyfriend would help her in having a faster heartbeat."
   },
   {
-    "name": "Illyasviel von Einzbern",
-    "series": "Fate/stay night",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b503-SmS87yq6l2tD.png",
-    "description": "A young Teutonic aristocrat, she traveled to Japan to participate in the Holy Grail War as a Master. Illyasviel has an angelic appearance and an unsurpassed degree of magical power. She lives in a castle on the outskirts of Fuyuki City, accompanied only by her Servant and two maids. Illyasviel asks those she feels comfortable around to simply call her \"Illya\"."
-  },
-  {
     "name": "Isla",
     "series": "Plastic Memories",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88753-RO3lBZgzwdJF.jpg",
     "description": "Isla is a Giftia who has a childish appearance, is extremely clumsy, and doesn't show much emotion. She's also a veteran Giftia who is said to be the #1 in retrievals in the terminal service, and she is seen having a diary that records down what she has done with her retrieval targets. She is currently working on the same team as Tsukasa Mizugaki and has previously worked with Kazuki Kuwanomi years ago."
+  },
+  {
+    "name": "Illyasviel von Einzbern",
+    "series": "Fate/stay night",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b503-SmS87yq6l2tD.png",
+    "description": "A young Teutonic aristocrat, she traveled to Japan to participate in the Holy Grail War as a Master. Illyasviel has an angelic appearance and an unsurpassed degree of magical power. She lives in a castle on the outskirts of Fuyuki City, accompanied only by her Servant and two maids. Illyasviel asks those she feels comfortable around to simply call her \"Illya\"."
   },
   {
     "name": "Yotsuba Koiwai",
@@ -1470,16 +1470,16 @@
     "description": "The younger angel sister, banished to Earth along with her sister Panty. A goth girl with straight bangs and ultra-long hair. She fights by transforming her stockings into two katana-shaped heavenly weapons, Stripe I & II. Stocking enjoys eating various desserts and sugary food, but doesn't seem to gain weight. However, she acts quite enraged and sensitive whenever someone calls her fat. She is usually a level-headed and intelligent girl, though she can be rude if provoked, especially towards her older sister Panty."
   },
   {
-    "name": "Yuki Nagato",
-    "series": "Suzumiya Haruhi no Yuuutsu",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249-2YImP6IQTe8t.png",
-    "description": "Yuki Nagato is a quiet high school freshman that is the only member of the SOS Brigade that was not \"voluntarily arrested,\" or coerced into joining, by Haruhi Suzumiya. She lives alone in the same apartment complex as Ryouko Asakura. Yuki has a very stoic and introverted personality, preferring simple body language rather than speaking. When prompted to speak, she does so in a very concise manner, always speaking in a monotone and displaying a dispassionate complexion."
-  },
-  {
     "name": "Mereoleona Vermillion",
     "series": "Black Clover",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png",
     "description": "She is a noblewoman and the first daughter of the Clover Kingdom's House Vermillion, one of its royal families. She is also the captain of the Crimson Lion squad and the Royal Knights squad."
+  },
+  {
+    "name": "Yuki Nagato",
+    "series": "Suzumiya Haruhi no Yuuutsu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249-2YImP6IQTe8t.png",
+    "description": "Yuki Nagato is a quiet high school freshman that is the only member of the SOS Brigade that was not \"voluntarily arrested,\" or coerced into joining, by Haruhi Suzumiya. She lives alone in the same apartment complex as Ryouko Asakura. Yuki has a very stoic and introverted personality, preferring simple body language rather than speaking. When prompted to speak, she does so in a very concise manner, always speaking in a monotone and displaying a dispassionate complexion."
   },
   {
     "name": "Rena Ryuuguu",
@@ -1569,7 +1569,7 @@
     "name": "Misuzu Gundou",
     "series": "Tomo-chan wa Onnanoko!",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89183-7rdNPxR2afjA.png",
-    "description": "Misuzu Gundou is the tritagonist of Tomo-chan wa Onnanoko!. She is <a href=\"https://anilist.co/character/89181/Tomo-Aizawa\">Tomo</a> and <a href=\"https://anilist.co/character/89182/Junichirou-Kubota\">Jun</a>'s childhood friend and classmate. She is cunning and sometimes sadistic, often teasing Jun. However, she is also protective of her friend and dislikes the idea of Tomo and Jun progressing their relationship."
+    "description": "Misuzu Gundou is the tritagonist of Tomo-chan wa Onnanoko!. She is Tomo and Jun's childhood friend and classmate. She is cunning and sometimes sadistic, often teasing Jun. However, she is also protective of her friend and dislikes the idea of Tomo and Jun progressing their relationship."
   },
   {
     "name": "Delta",
@@ -1680,16 +1680,16 @@
     "description": "A girl who graduated from the same junior high school as Kumiko. Influenced by her dad, who is a pro, she has been playing the trumpet since she was little, so she continues at the wind ensemble in high school. She is stoic and cool, and tends to keep herself distanced from other people."
   },
   {
-    "name": "Yuzuru Nishimiya",
-    "series": "Koe no Katachi",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89335-3fy5a7Qa9h9J.jpg",
-    "description": "Shouko's younger sister who is currently a middle school student. She cut her hair short so their mother would not cut Shouko's and has kept it that way ever since; due to this, she is often mistaken for a boy, with Ishida even thinking that she is Shouko's boyfriend at first."
-  },
-  {
     "name": "Shion",
     "series": "Tensei Shitara Slime Datta Ken",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128033-fLbTgW4M2yj3.png",
     "description": "\"War Lord\" Shion is Rimuru’s first servant to be in charge of his care as his personal secretary. She is also the leader of the Yomigaeri and also one of Rimuru's strongest fighters and is coveted by many of the Demon Lords who have met her."
+  },
+  {
+    "name": "Yuzuru Nishimiya",
+    "series": "Koe no Katachi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89335-3fy5a7Qa9h9J.jpg",
+    "description": "Shouko's younger sister who is currently a middle school student. She cut her hair short so their mother would not cut Shouko's and has kept it that way ever since; due to this, she is often mistaken for a boy, with Ishida even thinking that she is Shouko's boyfriend at first."
   },
   {
     "name": "Yuki Suou",
@@ -1710,28 +1710,28 @@
     "description": "San is the princess of the Wolf Gods. She acts, behaves, and resembles a wolf since she was raised by wolves. She is fundamentally defined by her appreciation of nature and hatred towards humans."
   },
   {
-    "name": "Yuuri",
-    "series": "Shoujo Shuumatsu Ryokou",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120890-pu5qO3xxvvcx.png",
-    "description": "Yuuri is a care-free, fun-loving girl. She is the direct foil and companion of Chito. She carries an Arisaka type 38 rifle and loves food more than anything else in the world."
-  },
-  {
     "name": "Yuki Yoshikawa",
     "series": "Hori-san to Miyamura-kun",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66963-JBKCtpgwdgkG.png",
     "description": "A close friend of Kyouko Hori's who attends the same high school as her."
   },
   {
-    "name": "Miko Yotsuya",
-    "series": "Mieruko-chan",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139631-JC76pYY2Q51Z.png",
-    "description": "Miko has the ability to see frightening supernatural things that most people can't, but she pretends that she can't see them to avoid conflict. Her Spiritual-Awareness power overpowers her sight, like the reflection in glass is overpowering and you're unable to see what lies beyond it."
+    "name": "Yuuri",
+    "series": "Shoujo Shuumatsu Ryokou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120890-pu5qO3xxvvcx.png",
+    "description": "Yuuri is a care-free, fun-loving girl. She is the direct foil and companion of Chito. She carries an Arisaka type 38 rifle and loves food more than anything else in the world."
   },
   {
     "name": "Alice Nakiri",
     "series": "Shokugeki no Souma",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88956-RbwleCQc741G.png",
     "description": "Alice Nakiri is a 92nd Tōtsuki Generation student and Erina Nakiri's cousin, whose cooking style is specialized in Molecular Gastronomy."
+  },
+  {
+    "name": "Miko Yotsuya",
+    "series": "Mieruko-chan",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139631-JC76pYY2Q51Z.png",
+    "description": "Miko has the ability to see frightening supernatural things that most people can't, but she pretends that she can't see them to avoid conflict. Her Spiritual-Awareness power overpowers her sight, like the reflection in glass is overpowering and you're unable to see what lies beyond it."
   },
   {
     "name": "Yue",
@@ -1758,16 +1758,16 @@
     "description": "Ameri is the president of Babyls' Student Council. She is convinced humans exist, despite them only being myth in the demon world, and believes Iruma to be one. Ameri hides the fact that she enjoys manga, \"the forbidden books of the human world\", and has Iruma read them to her in secret."
   },
   {
-    "name": "Mina Ashido",
-    "series": "Boku no Hero Academia",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89247-hu5MCqfoN82E.png",
-    "description": "Student in Class 1-A at U.A. High School."
-  },
-  {
     "name": "Anko Uguisu",
     "series": "Yofukashi no Uta",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175659-1W8HJJzAZ1dI.png",
     "description": "A private detective with an odd personality. Likes to smoke when she is not solving cases."
+  },
+  {
+    "name": "Mina Ashido",
+    "series": "Boku no Hero Academia",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89247-hu5MCqfoN82E.png",
+    "description": "Student in Class 1-A at U.A. High School."
   },
   {
     "name": "Rikka Takarada",
@@ -1803,7 +1803,7 @@
     "name": "Olivier Mira Armstrong",
     "series": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3934-MKTV6tQeP8T3.png",
-    "description": "Major General Olivier Mira Armstrong is Alex Louis Armstrong&#039;s older sister. She is in charge of Briggs, the northern military border. She scoffs at the concept of &quot;equivalent exchange&quot; and believes &quot;survival of the fittest&quot; is the only law in life. Her subordinates are loyal, but if it ensured the survival of Briggs (or for the sake of the greater good), they are instructed to leave her to die if ever the need arose, and she wouldn&#039;t hold it against them. One of her closest subordinates is Major Miles, a soldier whose grandfather was Ishvalan; he is of many bloods due to several inter-racial unions, beginning with his grandparents. It is possible that he is also part Xingese, but his Ishvalan blood is the most prominent. Being the General of Briggs, Olivier has full command of the Fortress. She is also very skilled with her family heirloom sword which she uses unhesitatingly. She also seems to have some proficiency with tanks and artillery."
+    "description": "Major General Olivier Mira Armstrong is Alex Louis Armstrong's older sister. She is in charge of Briggs, the northern military border. She scoffs at the concept of \"equivalent exchange\" and believes \"survival of the fittest\" is the only law in life. Her subordinates are loyal, but if it ensured the survival of Briggs (or for the sake of the greater good), they are instructed to leave her to die if ever the need arose, and she wouldn't hold it against them. One of her closest subordinates is Major Miles, a soldier whose grandfather was Ishvalan; he is of many bloods due to several inter-racial unions, beginning with his grandparents. It is possible that he is also part Xingese, but his Ishvalan blood is the most prominent. Being the General of Briggs, Olivier has full command of the Fortress. She is also very skilled with her family heirloom sword which she uses unhesitatingly. She also seems to have some proficiency with tanks and artillery."
   },
   {
     "name": "Jeanne",
@@ -1812,16 +1812,16 @@
     "description": "A vampire who acts as the Chevalier to Luca."
   },
   {
-    "name": "Ouzen",
-    "series": "Made in Abyss",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg",
-    "description": "Ouzen the Immovable is an elite White Whistle who lives at the Observation Base on the second level of the Abyss where she commands a small team of cave raiders known as \"The Layabouts.\" Ouzen was a mentor and a close friend of Riko's mother Lyza."
-  },
-  {
     "name": "Stella  Vermillion",
     "series": "Rakudai Kishi no Cavalry",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88264-v9VFbSWtQq2C.png",
     "description": "Stella Vermillion is an A-rank Apprentice Knight and second princess of the Vermillion Kingdom."
+  },
+  {
+    "name": "Ouzen",
+    "series": "Made in Abyss",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg",
+    "description": "Ouzen the Immovable is an elite White Whistle who lives at the Observation Base on the second level of the Abyss where she commands a small team of cave raiders known as \"The Layabouts.\" Ouzen was a mentor and a close friend of Riko's mother Lyza."
   },
   {
     "name": "Grell Sutcliff",
@@ -1848,16 +1848,16 @@
     "description": "A third-year student and head of the Student Council Beautification Committee. She gets pleasure from taking risks such as starting games of Russian roulette by herself."
   },
   {
-    "name": "Koneko Toujou",
-    "series": "High School DxD",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51343-pt1UDTRvAXfY.png",
-    "description": "A 10th grade student. Originally about to be executed by the devils after her sister, Kuroka, kills her own master. The Satan, Lucifer, protected her, and left her under his sister's, Rias' care - becoming her servant. She refused to use the power of youjutsu because she didn't want to become like her sister. She overcame her power along with Akeno after Issei made her overcome her own powers. She doesn't show any emotion at all, and says harsh things and hits Issei when he is doing or thinking something perverted. She shows the most concern for her comrades when they are in trouble."
-  },
-  {
     "name": "Perona",
     "series": "ONE PIECE",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7467-0xxnaxQGfhkY.jpg",
     "description": "Nicknamed the \"Ghost Princess\", Perona is a girl dressed in Gothic Lolita style and a commander in the army of Gecko Moria on his island-ship of Thriller Bark. She is also the commander of Perona Wonder Garden, where an army of animal zombies live and protect her. She looted the Thousand Sunny with some zombies and later took on guard duty while Absalom was away attempting to marry Nami. She cannot stand anything that she feels is not cute, such as insects. Perona has eaten the Horo Horo no mi (Ghost Ghost fruit) which allows her to create several ghostly apparitions. The ghosts can pass through someone to cause them to go into a sort of induced depression."
+  },
+  {
+    "name": "Koneko Toujou",
+    "series": "High School DxD",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51343-pt1UDTRvAXfY.png",
+    "description": "A 10th grade student. Originally about to be executed by the devils after her sister, Kuroka, kills her own master. The Satan, Lucifer, protected her, and left her under his sister's, Rias' care - becoming her servant. She refused to use the power of youjutsu because she didn't want to become like her sister. She overcame her power along with Akeno after Issei made her overcome her own powers. She doesn't show any emotion at all, and says harsh things and hits Issei when he is doing or thinking something perverted. She shows the most concern for her comrades when they are in trouble."
   },
   {
     "name": "Kirari Momobami",
@@ -1872,12 +1872,6 @@
     "description": "Lucy is a Diclonius girl around eighteen years old. She has developed strong emotions of hatred and vengeance towards regular humans mainly because of how she was treated by the majority of them as a child, making fun of her horns and giving her insulting nicknames such as freak."
   },
   {
-    "name": "Akiko Yosano",
-    "series": "Bungou Stray Dogs",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89208-Zjsz22lCmrIE.png",
-    "description": "A modern woman with a bob cut who's a member of the Armed Detective Agency. Although she's an excellent doctor who is indispensable to the Agency, all members of the the Agency are scared to be placed into her care. It's recommended that you don't use outdated misogynistic expressions in front of her."
-  },
-  {
     "name": "Su-Yeong Han",
     "series": "Jeonjijeok Dokja Sijeom",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180901-vEAE20MjhHA0.png",
@@ -1888,6 +1882,12 @@
     "series": "Gachiakuta",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b275749-fglzDjaLZh1H.png",
     "description": "She’s a former hitman and currently a member of the Akuta faction of the Cleaners. She has an unusual fighting style where she wields her large scissors with her feet. Normally cheerful and playful, she becomes strikingly pragmatic in battle."
+  },
+  {
+    "name": "Akiko Yosano",
+    "series": "Bungou Stray Dogs",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89208-Zjsz22lCmrIE.png",
+    "description": "A modern woman with a bob cut who's a member of the Armed Detective Agency. Although she's an excellent doctor who is indispensable to the Agency, all members of the the Agency are scared to be placed into her care. It's recommended that you don't use outdated misogynistic expressions in front of her."
   },
   {
     "name": "Suika",
@@ -1926,10 +1926,10 @@
     "description": "A high school girl of self-professed low standing who has reincarnated as a spider."
   },
   {
-    "name": "Aki Adagaki",
-    "series": "Masamune-kun no Revenge",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76364-ATlG8j4fx3vg.png",
-    "description": "Aki comes from a well off family and is known for her brutal treatment of men. As a result, she has gained the nickname \"Cruel Princess\" from her classmates. She allegedly rejected Masamune-kun and gave him the nickname \"Piggy\" when the two were children leading to his transformation and commitment to revenge."
+    "name": "Shirayuki",
+    "series": "Akagami no Shirayuki-hime",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18323-yDl2JX1vF19h.png",
+    "description": "Shirayuki is a bright and resourceful girl, determined, able to speak her mind, and knowledgeable in both botany and medicine. Whenever there is a problem or conflict, she often takes matters into her own hands. She later learns to rely on others, especially Zen."
   },
   {
     "name": "Himeko Inaba",
@@ -1938,10 +1938,10 @@
     "description": "Himeko is vice president of the Cultural Research Club. She excels in gathering information and analysis, possessing private data on each of the club members. She's calm and logical, but she's actually a bit clumsy, so her difficulty with roundabout phrasings causes her to surprise many of those around her with her blunt statements."
   },
   {
-    "name": "Shirayuki",
-    "series": "Akagami no Shirayuki-hime",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18323-yDl2JX1vF19h.png",
-    "description": "Shirayuki is a bright and resourceful girl, determined, able to speak her mind, and knowledgeable in both botany and medicine. Whenever there is a problem or conflict, she often takes matters into her own hands. She later learns to rely on others, especially Zen."
+    "name": "Aki Adagaki",
+    "series": "Masamune-kun no Revenge",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76364-ATlG8j4fx3vg.png",
+    "description": "Aki comes from a well off family and is known for her brutal treatment of men. As a result, she has gained the nickname \"Cruel Princess\" from her classmates. She allegedly rejected Masamune-kun and gave him the nickname \"Piggy\" when the two were children leading to his transformation and commitment to revenge."
   },
   {
     "name": "Inori Yuzuriha",
@@ -1962,16 +1962,16 @@
     "description": "A determined schoolgirl who \"possesses a remarkable hearing ability\". She believes that by persevering in karuta, she will meet Arata again, and begins a karuta club at her high school with Mashima. While she is beautiful, she is considered too weird; her classmates refer to her as a \"waste of a beauty\". She has been described as a \"tomboy trapped in a supermodel's body\"."
   },
   {
-    "name": "Princess Hibana",
-    "series": "Enen no Shouboutai",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130783-10kVdsVrwpuO.png",
-    "description": "Hibana is a Third Generation pyrokinetic and Captain of the Special Fire Force Company 5."
-  },
-  {
     "name": "Kayo Hinazuki",
     "series": "Boku dake ga Inai Machi",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/89276-LjlYvXfOnjHB.jpg",
     "description": "A 10-year-old girl and the first victim of the serial killer/kidnapper. She went missing on the 2nd of March 1988. Her body was found a few days later once the snow had thawed."
+  },
+  {
+    "name": "Princess Hibana",
+    "series": "Enen no Shouboutai",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130783-10kVdsVrwpuO.png",
+    "description": "Hibana is a Third Generation pyrokinetic and Captain of the Special Fire Force Company 5."
   },
   {
     "name": "Seiko Ayase",
@@ -1980,22 +1980,28 @@
     "description": "Momo Ayase's grandmother. Despite being a grandmother, Seiko possesses a youthful appearance that does not match her age and is recognized as being quite beautiful."
   },
   {
-    "name": "Abigail Jones",
-    "series": "GREAT PRETENDER",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158450-8Tvl7X2VtHj0.png",
-    "description": "An exceptionally athletic conwoman from Iraq with a flexible and toned body. Blunt and belligerent. Hides a secret in her childhood memories."
-  },
-  {
     "name": "Nia Teppelin",
     "series": "Tengen Toppa Gurren Lagann",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2761-FmSJGaW9WzYZ.png",
     "description": "Nia Teppelin is a mysterious young girl found sleeping in a capsule in the middle of a dump site by Simon. She had no prior contact with humans, except her father, who is also the sovereign of the Beastmen, the Spiral King. She is very curious, pure and innocent, due to growing up sheltered in a peaceful environment, away from all the battles occurring in the outside world. Despite early misgivings, she is quickly accepted by Team Dai-Gurren, much to the (initial) irking of Yoko."
   },
   {
+    "name": "Abigail Jones",
+    "series": "GREAT PRETENDER",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158450-8Tvl7X2VtHj0.png",
+    "description": "An exceptionally athletic conwoman from Iraq with a flexible and toned body. Blunt and belligerent. Hides a secret in her childhood memories."
+  },
+  {
     "name": "Junko Enoshima",
     "series": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65523-OztiX9PhydrG.png",
     "description": "Junko is a student in Hope's Peak Academy's Class 78th, and a participant in the Killing School Life. She is the Super High School Level Gyaru, or Ultimate Fashionista in the English localization."
+  },
+  {
+    "name": "Übel",
+    "series": "Sousou no Frieren",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png",
+    "description": "Übel is a third-class mage. Was disqualified in an earlier examination due to killing a first-class wizard. Specializes in magic that allows her to copy the spells of people she can empathize with. Relies mostly on her intuition and is not bound by logical reasoning."
   },
   {
     "name": "Quanxi",
@@ -2008,12 +2014,6 @@
     "series": "Sakurasou no Pet na Kanojo",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64167-qMxw0Sijwc18.png",
     "description": "Nanami is Sorata's classmate. Although she is harsh to Sorata, she actually has a crush on him, and everyone aside from Sorata has noticed this. She escaped from her home to become a voice actress and has to live on her own."
-  },
-  {
-    "name": "Übel",
-    "series": "Sousou no Frieren",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png",
-    "description": "Übel is a third-class mage. Was disqualified in an earlier examination due to killing a first-class wizard. Specializes in magic that allows her to copy the spells of people she can empathize with. Relies mostly on her intuition and is not bound by logical reasoning."
   },
   {
     "name": "Yuki Itose",
@@ -2052,16 +2052,16 @@
     "description": "Unbeatable and adorable! A happy hoppin' racer."
   },
   {
-    "name": "Shuna",
-    "series": "Tensei Shitara Slime Datta Ken",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png",
-    "description": "Shuna is one of the third group of subordinate Monsters to be named by Rimuru, evolving her from an Ogre to a Kijin. She was originally the princess of the Ogre tribe and even though she had the talent for using Magic, she was a sheltered girl, but quickly got along with the Goblinas"
-  },
-  {
     "name": "Yamada",
     "series": "Super no Ura de Yani Suu Futari",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b281764-hWP2FXV9XLNl.png",
     "description": "Yamada is an employee of the supermarket known as Super S. She initially started in a part-time position 8 years ago as a teenager."
+  },
+  {
+    "name": "Shuna",
+    "series": "Tensei Shitara Slime Datta Ken",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png",
+    "description": "Shuna is one of the third group of subordinate Monsters to be named by Rimuru, evolving her from an Ogre to a Kijin. She was originally the princess of the Ogre tribe and even though she had the talent for using Magic, she was a sheltered girl, but quickly got along with the Goblinas"
   },
   {
     "name": "Megumi Tadokoro",
@@ -2130,12 +2130,6 @@
     "description": "Balalaika is the boss of Hotel Moscow. It is revealed in the novel that her real name is Sofiya Pavlovena, though this name is never used in her presence. She is sometimes referred as Vladilena reduction from Vladimir Ilich Lenin. She was brought up by her grandfather, the military head of the USSR."
   },
   {
-    "name": "Wiz",
-    "series": "Kono Subarashii Sekai ni Shukufuku wo!",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120655-LfUD7Mb1Mncg.jpg",
-    "description": "Wiz is the owner of a famous Magic Item Shop in Axel that has many unsalable items with quirky defects. She used to be a renowned Arch Wizard, but has since retired. At night, she has a secret identity as a kind-hearted lich who helps lingering spirits pass on. She is also the only harmless Demon King's General and prefers to live as a human."
-  },
-  {
     "name": "Meiko Honma",
     "series": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40592-mAEyaQyJu5oc.png",
@@ -2148,16 +2142,16 @@
     "description": "Sachi is a young woman pursuing a career as a manga artist. She befriends Onodera Punpun and serves an important role in his life. She has realistic views on things and isn't afraid to speak out, but most people think she is just a rude person."
   },
   {
+    "name": "Wiz",
+    "series": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120655-LfUD7Mb1Mncg.jpg",
+    "description": "Wiz is the owner of a famous Magic Item Shop in Axel that has many unsalable items with quirky defects. She used to be a renowned Arch Wizard, but has since retired. At night, she has a secret identity as a kind-hearted lich who helps lingering spirits pass on. She is also the only harmless Demon King's General and prefers to live as a human."
+  },
+  {
     "name": "Minori Kushieda",
     "series": "Toradora!",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg",
     "description": "Minori is a girl in Ryuuji's class, and is a close friend to Taiga. She is also known by the pet name \"Minorin\". In contrast to the negative Taiga, Minori is always smiling and cheerful, but is also a natural airhead, though it is suggested that her airhead ways may be a facade. She is very athletic and is the captain of the girl's softball club at school, though at the same time she holds many part-time jobs. She is a glutton when it comes to food, but is also constantly combating dieting."
-  },
-  {
-    "name": "Kokomi Teruhashi",
-    "series": "Saiki Kusuo no Ψ-nan (ONA)",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90109-hr98ksrKzMOe.png",
-    "description": "Kokomi Teruhashi is a student in Kusuo's class, considered very attractive by both women and men, who often stop and stare upon seeing her."
   },
   {
     "name": "Filo",
@@ -2166,22 +2160,28 @@
     "description": "Filo was originally hatched from a monster egg which Naofumi purchased from the slave trader."
   },
   {
+    "name": "Kokomi Teruhashi",
+    "series": "Saiki Kusuo no Ψ-nan (ONA)",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90109-hr98ksrKzMOe.png",
+    "description": "Kokomi Teruhashi is a student in Kusuo's class, considered very attractive by both women and men, who often stop and stare upon seeing her."
+  },
+  {
     "name": "Mami Tomoe",
     "series": "Mahou Shoujo Madoka☆Magica",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38194-gnlnx4XN4HYP.jpg",
     "description": "Mami Tomoe is a veteran magical girl and a third-year student at Madoka's school. She lives alone in a penthouse after her parents were killed in a car crash, which Mami survived after contracting with Kyuubey. Mami is particularly focused on saving, guiding, and protecting those around her, which is a traditionally selfless perspective on the role of magical girl. She is much like a maternal figure to Madoka and Sayaka, being the eldest among them. Her name could be considered a play on the word 'mommy', further supported in the third film, where she has a companion named \"Bebe\". Though Mami's outward disposition is cheery and confident, Mami feels deeply alone as she has no friends to confide in as she fights."
   },
   {
-    "name": "Shiro",
-    "series": "Deadman Wonderland",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8631-c6VT3zQUGAU5.jpg",
-    "description": "A mysterious albino girl that Ganta encountered during his first days as an inmate. Clothed only in a skin-tight bodysuit and muffly gloves, which conceals her heavily scarred skin, Shiro stands out among the other prisoners due to her bizarre appearance and mannerisms. To Ganta, Shiro's manner of speaking and acting remind him of a small child, even though Shiro is the same age as him. However, Shiro possesses inhuman physical abilities and has an intimate knowledge of the prison, having apparently lived there most of her life."
-  },
-  {
     "name": "Celestia Ludenberg",
     "series": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65525-BoB482T3oEoN.jpg",
     "description": "Celestia is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. She is the Super High School Level Gambler, or the Ultimate Gambler in the English localization."
+  },
+  {
+    "name": "Shiro",
+    "series": "Deadman Wonderland",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8631-c6VT3zQUGAU5.jpg",
+    "description": "A mysterious albino girl that Ganta encountered during his first days as an inmate. Clothed only in a skin-tight bodysuit and muffly gloves, which conceals her heavily scarred skin, Shiro stands out among the other prisoners due to her bizarre appearance and mannerisms. To Ganta, Shiro's manner of speaking and acting remind him of a small child, even though Shiro is the same age as him. However, Shiro possesses inhuman physical abilities and has an intimate knowledge of the prison, having apparently lived there most of her life."
   },
   {
     "name": "Vivi Nefertari",
@@ -2205,7 +2205,7 @@
     "name": "Mio Kofune",
     "series": "Summer Time Render",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b155706-guouOSwrSqso.jpg",
-    "description": "She is <a href= \"https://anilist.co/character/155712/Ushio-Kofune\">Ushio</a>'s younger sister and a first-year high school student. She is good at sports, belongs to the swimming club, and has tanned skin. Despite the death of her older sister, she has a healthy side, such as her cheerful attitude toward <a href=\"https://anilist.co/character/155703/Shinpei-Ajiro\">Shinpei</a> when he returns home."
+    "description": "She is Ushio's younger sister and a first-year high school student. She is good at sports, belongs to the swimming club, and has tanned skin. Despite the death of her older sister, she has a healthy side, such as her cheerful attitude toward Shinpei when he returns home."
   },
   {
     "name": "Mordred Pendragon",
@@ -2262,22 +2262,22 @@
     "description": "Lum is a beautiful Oni alien who is capable of flying and generating electrical shocks."
   },
   {
-    "name": "Tsukuyo",
-    "series": "Gintama",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18823-EHKT9u7r91s0.png",
-    "description": "Tsukuyo is a blonde-haired woman with a scar over her forehead and left cheek. One of the better known Hundred Blooms of Yoshiwara, a law enforcement squad of Yoshiwara that consists of all females, deployed by the Night King Hosen. Despite appearing to be a heartless person when approached by Odd Jobs when he arrives to Yoshiwara, throwing a fake kunai to their foreheads, she later becomes friends with them. She has a difficult past being orphaned as a child, only to be picked up and raised by a ruthless and deadly assassin, Jiraia. While the original motive for Jiraia was to instill every bit of despair and tragedy of his own life into Tsukuyo, of who he refers to as his art or perfect creation, Tsukuyo ended up growing attached to what he did not manage to do. That is \"Friends, A Home, and Precious Things To Protect\" as told by Jiraia. Her loyalty and home lies with Hinowa in the underground city of Yoshiwara. She has ties with Hinowa, who also helped raise her like an older sister/mother through her childhood."
-  },
-  {
     "name": "Karane Inda",
     "series": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b173760-Gj3fK5VpbpT3.png",
     "description": "Karane is known for being straightforward and honest about how she feels about a given situation except for two subjects: her feminine figure (or supposed lack of) and her deep love for Aijou Rentarou. Her desperate attempts to hide how she feels about a given situation despite her honest nature often make people think she is going to strike them."
   },
   {
+    "name": "Tsukuyo",
+    "series": "Gintama",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18823-EHKT9u7r91s0.png",
+    "description": "Tsukuyo is a blonde-haired woman with a scar over her forehead and left cheek. One of the better known Hundred Blooms of Yoshiwara, a law enforcement squad of Yoshiwara that consists of all females, deployed by the Night King Hosen. Despite appearing to be a heartless person when approached by Odd Jobs when he arrives to Yoshiwara, throwing a fake kunai to their foreheads, she later becomes friends with them. She has a difficult past being orphaned as a child, only to be picked up and raised by a ruthless and deadly assassin, Jiraia. While the original motive for Jiraia was to instill every bit of despair and tragedy of his own life into Tsukuyo, of who he refers to as his art or perfect creation, Tsukuyo ended up growing attached to what he did not manage to do. That is \"Friends, A Home, and Precious Things To Protect\" as told by Jiraia. Her loyalty and home lies with Hinowa in the underground city of Yoshiwara. She has ties with Hinowa, who also helped raise her like an older sister/mother through her childhood."
+  },
+  {
     "name": "Tomo Aizawa",
     "series": "Tomo-chan wa Onnanoko!",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/89181-eo1e0troTZz2.jpg",
-    "description": "Tomo is a high school student with a tomboyish personality, exceptional skills in combat sports, and an earnest desire to win the heart of her childhood friend <a href=\"https://anilist.co/character/89182/Junichirou-Kubota\">Junichiro</a>. Despite her athletic abilities, she is self-conscious about her masculine traits and seeks to become more feminine."
+    "description": "Tomo is a high school student with a tomboyish personality, exceptional skills in combat sports, and an earnest desire to win the heart of her childhood friend Junichiro. Despite her athletic abilities, she is self-conscious about her masculine traits and seeks to become more feminine."
   },
   {
     "name": "Satanichia Kurumizawa McDowell",
@@ -2334,16 +2334,16 @@
     "description": "She is an amnesiac woman taken in by Nona to Quindecim and hired as Decim's assistant."
   },
   {
-    "name": "Akane Kinoshita",
-    "series": "Yamada-kun to Lv999 no Koi wo Suru",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197172-MfY8D8sSMjHy.png",
-    "description": "Akane is a college student who had just broken up with her ex-boyfriend. Mainly because of him falling in love with another female gamer he met in the game Forest Of Savior (FOS). She is also a player of the said game and is a part of the guild named [Chocolate Rabbit]. Her character's name is Akane and her character's role is a Paladin. She is not tech savvy but she really likes playing the game and getting along with everyone."
-  },
-  {
     "name": "Akari Mizunashi",
     "series": "ARIA The ANIMATION",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b378-pjsuS5BGmjQw.png",
     "description": "A native of Man-Home, Akari is a happy and easy-going person, who we rarely see angry or upset, a quality which she shares with her supervisor. She is best described as a romantic and seems to find enjoyment in things or events that other people might think humdrum and mundane. Akari often says \"Hohe\" or \"Hahi\", which is her short version of \"wow\"."
+  },
+  {
+    "name": "Akane Kinoshita",
+    "series": "Yamada-kun to Lv999 no Koi wo Suru",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197172-MfY8D8sSMjHy.png",
+    "description": "Akane is a college student who had just broken up with her ex-boyfriend. Mainly because of him falling in love with another female gamer he met in the game Forest Of Savior (FOS). She is also a player of the said game and is a part of the guild named [Chocolate Rabbit]. Her character's name is Akane and her character's role is a Paladin. She is not tech savvy but she really likes playing the game and getting along with everyone."
   },
   {
     "name": "Temari",
@@ -2373,7 +2373,7 @@
     "name": "Saki Hanajima",
     "series": "Fruits Basket",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376-N55Tx44kdB42.jpg",
-    "description": "Saki is a psychic girl with a goth-like appearance who has the ability to sense people&#039;s &quot;auras&quot; and send out electric waves (denpa in Japanese). Much like Arisa, Saki is extremely protective of Tohru, who was the first person in school who had truly accepted her."
+    "description": "Saki is a psychic girl with a goth-like appearance who has the ability to sense people's \"auras\" and send out electric waves (denpa in Japanese). Much like Arisa, Saki is extremely protective of Tohru, who was the first person in school who had truly accepted her."
   },
   {
     "name": "Yuuko Aioi",
@@ -2400,16 +2400,16 @@
     "description": "The princess of the human kingdom. Kidnapped by the Demon King, she spends her days waiting for the heroes to rescue her. At least, that's how it was supposed to be..."
   },
   {
-    "name": "Senko",
-    "series": "Sewayaki Kitsune no Senko-san",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130429-jw2wdaJJGCIc.png",
-    "description": "Her name is Senko, and she’s a divine messenger fox of 800 years! Her mission is to ease the anxiety and darkness plaguing humanity, and thus she has come to pamper and take care of Nakano by cooking, cleaning, and more!"
-  },
-  {
     "name": "Falin Thorden",
     "series": "Dungeon Meshi",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130508-ZaP30snJccry.png",
     "description": "Falin is Laios's younger sister and a mage specializing in support spells. She is a tall-man from the Northern Continent."
+  },
+  {
+    "name": "Senko",
+    "series": "Sewayaki Kitsune no Senko-san",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130429-jw2wdaJJGCIc.png",
+    "description": "Her name is Senko, and she’s a divine messenger fox of 800 years! Her mission is to ease the anxiety and darkness plaguing humanity, and thus she has come to pamper and take care of Nakano by cooking, cleaning, and more!"
   },
   {
     "name": "Honami Ichinose",
@@ -2424,15 +2424,21 @@
     "description": "Neliel Tu Oderschvank, commonly known as Nel Tu, is a good-natured, child-like arrancar when first introduced. The remains of her hollow mask make up a cartoonish skull on the top of her head. Nel and her companions believe Soul Reapers, not hollows, to be evil, and as such are afraid of them. In spite of this, she develops an attachment to Ichigo Kurosaki and starts following him around after her introduction. She often mispronounces Ichigo's name as 'Itsygo' due to her lisping, and she is a self-proclaimed masochist."
   },
   {
+    "name": "Izutsumi",
+    "series": "Dungeon Meshi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130507-iB88aMlQPuMz.png",
+    "description": "Izutsumi is a former member of Shuro's party and currently a part of Laios' party. She is a tall-man (beast-man) from the Eastern Archipelago."
+  },
+  {
     "name": "Rangiku Matsumoto",
     "series": "BLEACH",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b904-bdfi2xqHicCj.png",
     "description": "Rangiku Matsumoto is the lieutenant of the 10th Division of the Gotei 13, serving under Captain Toushirou Hitsugaya."
   },
   {
-    "name": "Izutsumi",
-    "series": "Dungeon Meshi",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130507-iB88aMlQPuMz.png",
-    "description": "Izutsumi is a former member of Shuro's party and currently a part of Laios' party. She is a tall-man (beast-man) from the Eastern Archipelago."
+    "name": "Maki Nishikino",
+    "series": "Bokura no LIVE Kimi to no LIFE",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46165-0SB7Je2kSwnb.png",
+    "description": "Maki Nishikino is a first-year​ high school student in Otonokizaka High School. She has a beautiful voice and loves jazz music more than anyone else in the group. At first, she didn't want to join µ's because she had decided to inherit their family's hospital and take up medicine in college, but after joining forces with Rin to push Hanayo to join, she decides to follow the same path and join along with her two fellow first years."
   }
 ]
